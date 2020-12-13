@@ -1,1 +1,0 @@
-error-666, batch file "folder-gide.cpp" was not found, file "open the html dock" was found in place of "folder-gide.cpp".
