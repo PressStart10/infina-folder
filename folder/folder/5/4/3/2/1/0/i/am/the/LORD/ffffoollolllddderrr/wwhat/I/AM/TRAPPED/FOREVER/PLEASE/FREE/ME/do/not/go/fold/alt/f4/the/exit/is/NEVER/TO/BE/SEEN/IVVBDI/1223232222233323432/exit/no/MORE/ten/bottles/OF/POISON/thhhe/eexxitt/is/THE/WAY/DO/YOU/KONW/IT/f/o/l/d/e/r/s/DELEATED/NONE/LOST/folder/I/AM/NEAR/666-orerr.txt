@@ -1,1 +1,1 @@
-ERR_odject_class "TRAPPED" is looped, reastaring systom
+ERR_odject_class "TRAPPED" is looped, reastaring system
